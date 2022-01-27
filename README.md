@@ -4,22 +4,5 @@ My name is **Dane**
 - 💕 I'm .Net Developer.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DaneSpiritGOD&show_icons=true)
+
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=DaneSpiritGOD&layout=compact&langs_count=6)
-
-<!--
-**DaneSpiritGOD/DaneSpiritGOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [Erda Project](https://github.com/erda-project) (a cloud native PaaS).
-- 🖖 I’m currently focusing on large scale monitoring system.
-- 🌱 I’m currently learning distributed system.
-- 💕 I’m a cloud computing enthusiast.
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
