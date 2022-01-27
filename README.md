@@ -1,9 +1,10 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DaneSpiritGOD&show_icons=true)
-
 My name is **Dane**
 
 - 🌱 I’m currently learning go lang.
 - 💕 I'm .Net Developer.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DaneSpiritGOD&show_icons=true)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=DaneSpiritGOD&layout=compact&langs_count=6)
 
 <!--
 **DaneSpiritGOD/DaneSpiritGOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div style="display:flex;align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DaneSpiritGOD&show_icons=true" style="width: 50%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaneSpiritGOD&layout=compact&langs_count=6" style="width: 42%"/>
-</div>
